@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../XSL/releve.xslt"?>
+<releve RIB="1234567895854" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="releve.xsd">
+    <dateReleve>12/10/23</dateReleve>
+    <solde> 99999</solde>
+    <operations dateDebut="01/11/2023" dateFin="10/11/2023">
+        <operation type="CREDIT" date="03/11/2023" montant="2000" description="verement"></operation>
+        <operation type="DEBIT" date="03/11/2023" montant="2000" description="verement"></operation>
+        <operation type="CREDIT" date="03/11/2023" montant="2000" description="verement"></operation>
+        <operation type="CREDIT" date="03/11/2023" montant="1000" description="verement"></operation>
+        <operation type="DEBIT" date="03/11/2023" montant="2000" description="verement"></operation>
+
+    </operations>
+</releve>

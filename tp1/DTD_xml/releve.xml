@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../XSL/operation_debit.xslt"?>
+<!DOCTYPE Releve SYSTEM "releve.dtd">
+<Releve RIB="1234567895854">
+    <dateReleve > 12/10/2010 </dateReleve>
+    <solde> 99999 </solde>
+    <operations dateDebut="01/11/2023">
+        <operation type="CREDIT" date="03/11/2023" montant="2000" description="verement"></operation>
+        <operation type="DEBIT" date="03/11/2023" montant="2000" description="verement"></operation>
+        <operation type="CREDIT" date="03/11/2023" montant="2000" description="verement"></operation>
+        <operation type="DEBIT" date="03/11/2023" montant="2000" description="verement"></operation>
+        <operation type="CREDIT" date="03/11/2023" montant="2000" description="verement"></operation>
+        <operation type="DEBIT" date="03/11/2023" montant="2000" description="verement"></operation>
+        <operation type="DEBIT" date="03/11/2023" montant="2000" description="verement"></operation>
+        <operation type="DEBIT" date="03/11/2023" montant="2000" description="verement"></operation>
+
+    
+    </operations>
+</Releve>
